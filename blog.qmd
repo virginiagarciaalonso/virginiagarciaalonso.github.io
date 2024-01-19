@@ -1,0 +1,25 @@
+---
+title: "Blog"
+subtitle: "a place to share things :) (more coming soon!)"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    grid:
+      sidebar-width: 135px
+      body-width: 650px
+editor: 
+  mode: source
+---
+
+

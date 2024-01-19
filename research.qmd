@@ -1,0 +1,61 @@
+---
+title: "Research"
+subtitle: "topics and projects"
+title-block-banner: true
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 600px
+editor: 
+  mode: source
+---
+
+<br>
+
+Following my interest and passion for [Marine Sciences]{.bold}, I participated in various projects and carried out diverse research studies involving marine ecosystems.
+
+
+# Interdisciplinary study of Fuegian sprat
+
+During my PhD and Postdoctoral postion I carried out an project with oceanographers and fellow biologists in which I studied early life stages of [Fuegian sprat (_Sprattus fuegensis_)]{.bold} 🐟. This species is one of the most important pelagic resources in the Southwest Atlantic Ocean and, due to their high abundance and intermediary trophic role, they represent a [key species in the marine ecosystems they inhabit]{.bold}. 
+
+The [main objective]{.bold} of this project was to [assess their early stages’ spatial and temporal dynamics and their relation with abiotic and biotic factors]{.bold}.
+
+We were able to collect samples in 7 oceanographic surveys carried out in Argentina´s first Marine Protected Area "Namuncurá" at Burdwood Bank for the first time and in western adjacent areas towards Tierra del Fuego. These surveys ocurred in spring, summer and autumn in both of the places mentioned, allowing the comparisson of spatio-temporal patterns. Also, we were able to count with biotic (zooplancton) and abiotic (water temperature and salinity) variables from the same samples.
+
+Below are the different analyses we carried out and the main results.
+
+
+##  Spatiotemporal distribution and connectivity patterns
+
+The [distribution patterns]{.bold} of fish early life stages are critical to recruitment success and closely related to major oceanographic circulation patterns, reason why we explored the spatio-temporal distribution of early life stages of Fuegian sprat in all of the surveys.
+
+Results revealed significant seasonal fluctuations in abundance, distribution, and ontogenetic composition across habitats. High egg and early larval abundances at Isla de los Estados (IE) suggested it as an additional spawning ground to those previously identified at TDF and BB. However, only the latter appeared to be suitable nursery areas. 
+
+![](images/fig_dist_abund.png){fig-align="center" width="45%" fig-alt="..."}
+
+We then conducted [particle-tracking simulations]{.bold} based on egg abundance and spawning dates for the first time using results from a high-resolution hydrodynamic model.
+
+![](images/fig_model.png){fig-align="center" width="45%" fig-alt="..."}
+
+Particle transport provided evidence of connectivity between IE and neighbouring areas—enhanced when horizontal diffusivity is incorporated into the model—but not between TDF and BB. 
+
+![](images/fig_model_res.png){fig-align="center" width="45%" fig-alt="..."}
+
+Simulated distributions closely resembled empirical patterns from this and other studies, allowing the integration of empirical and modelled data to schematize the species’ dispersal pathways in the study area. 
+
+
+![](images/fig_scheme_sf.png){fig-align="center" width="45%" fig-alt="..."}
+
+These results offered new insights into distribution and connectivity patterns among spawning grounds and highlighted the potential use of hydrodynamic models for future assessments of Fuegian sprat and other planktonic species’ dispersal and recruitment in the SWAO.
+
+
+>[[García Alonso VA]{.bold}, Franco BC, Palma ED, Pájaro M, Capitanio FL]{.small-text}
+>[_Integration of empirical and modelled data unravels spatiotemporal distribution and connectivity patterns of Fuegian sprat early life stages_]{.small-text}
+[Mar Ecol Prog Ser :MFCav9. https://doi.org/10.3354/meps14329 ]{.small-text}
+
+
+
+
+

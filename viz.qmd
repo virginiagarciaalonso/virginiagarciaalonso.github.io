@@ -1,0 +1,23 @@
+---
+title: "Viz gallery"
+subtitle: "some logos, figures and presentations (still under construction )"
+listing:
+  contents: viz
+  feed: true
+  sort: "date desc"
+  type: grid
+  fields: [title, categories, date, image]
+  grid-item-border: true
+  grid-item-align: left
+  date-format: medium
+  image-height: 100%
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 600px
+title-block-banner: true
+---

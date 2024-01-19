@@ -1,0 +1,85 @@
+---
+title: "Communities"
+subtitle: "great spaces filled with awsome people"
+title-block-banner: true
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 600px
+editor: 
+  mode: source
+---
+
+<br>
+
+I have crossed roads with [incredible communities]{.bold} (and the people behind them!) which promote gender diversity, inclusivity, and the implementation of open science practices along among other valuable missions.
+
+Here are some of the many communities out there to which I've joined, in case they can be useful to you too!
+
+
+# R-Ladies
+
+[R-Ladies](https://rladies.org/) is a worldwide organization whose mission is to [promote gender diversity within the R community]{.bold} in the quest to improve accessibility and inclusion.
+
+I first heard of R-Ladies from [Laura Ación](http://lacion.rbind.io/) during an undergraduate course of _Biostatistics_ at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. This was the first time I ever became aware of the existence of such communities and joining the [Buenos Aires chapter](https://rladiesba.netlify.app/) was a life-changing experience.
+
+There are chapters all around the world and they hold on-site and/or online events in which people can share their R codes, new packages, and so many other things. Above all, the community is a safe and really welcoming space for under-represented gender minorities (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). 
+
+You can look for local chapters in the [R-Ladies website](https://rladies.org/) or join the [Community Slack](https://airtable.com/appJZFYABfCIdPYMR/shrReqdN8fhuXGY3P).
+
+
+# The Carpentries
+
+[The Carpentries](https://carpentries.org/index.html) is a community formed by instructors, trainers, maintainers, helpers, and supporters that teaches [foundational coding and data science skills to researchers worldwide]{.bold}. 
+
+The project comprises the [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), and [Library Carpentry](https://librarycarpentry.org/) workshops with open and free lessons of many useful topics.
+
+You can also [become an Instructure](https://carpentries.org/become-instructor/) and organize workshops!
+
+
+# Metadocencia
+
+[Metadocencia](https://www.metadocencia.org/) is a community that works to [make the production, communication, and application of scientific and technical knowledge equitable globally]{.bold}.
+
+They do remote and free courses intended for Spanish-speaking teachers and pay particular attention in teaching how to make inclusive content and activities. 
+
+
+# LatinR
+
+[LatinR](https://latin-r.com/en/) is a [Latin American Conference on the Use of R in Research + Development]{.bold}.
+
+Besides holding on-site or online conferences, the community also has a [Slack](https://latin-r.slack.com/join/shared_invite/enQtNDA3MjM3MTQwOTM1LTg3ZWMyNWU3MGI2MGM5YzU0MGU4NWE5NjYwMjBhMGZmYTQzYTA0ODZlOTE1NDc0YzIwM2NhYTJiNDQyZjMzZjc) with channels to ask for help with coding issues or with preparing talks for this and other R conferences (including helping with translations for international conferences)
+
+
+# R for Data Science
+
+This is actually a [book](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund that [teaches you how to do data science with R]{.bold}. But a [Data Science Learning Community](https://rfordatasci.com/) was built around it, with a Slack where people can ask for help, share job opportunities, advertise R-related events and more.
+
+
+# Open Life Science
+
+[Open Life Science](https://openlifesci.org/) is a not-for profit organization dedicated to [capacity building and diversifying leadership in research worldwide]{.bold}. Theys strive for a future where research is accessible, inclusive, and equitable for everyone.
+
+They provide the [Open Seeds program](https://openlifesci.org/openseeds/) for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities.
+
+
+# OceanHackWeek
+
+[OceanHackWeek](https://oceanhackweek.org/) is a 5-day collaborative learning experience aimed at [exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data]{.bold}. It includes tutorials, data exploration, software development, collaborative projects and community networking.
+
+There is also a Slack channel for participants and mentors to exchange questions, events, and job opportunities.
+
+# RSpatial_ES
+
+[RSpatial_ES](https://rspatial_es.gitlab.io) is the [Spanish speaking community of R users dedicated to spatial analysis and related aspects]{.bold}. They embarked on the experience of translating knowledge into the Spanish language and making it accessible mainly in Latin America. Members have access to community support, information and news about R and Rspatial
+tutorials, talks and courses, and contributions and reviews of their developments.
+
+The community started and is maintained as a [Telegram group](https://t.me/rspatial_es).
+
+
+# The Turing Way
+
+[The Turing Way](https://the-turing-way.netlify.app/index.html) is an open source, open collaboration, and community-driven project. They are involved and support a diverse community of contributors to [make data science accessible, comprehensible and effective for everyone]{.bold}. Their goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
+
+You can join their [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss ideas or suggestions with The Turing Way members.

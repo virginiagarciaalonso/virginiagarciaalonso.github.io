@@ -1,0 +1,56 @@
+---
+title: "Logo for R-Ladies Buenos Aires"
+description: "From the idea to the final hex"
+date: 2022-11-10
+categories: [R-Ladies]
+image: cover.png
+draft: false
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 600px
+editor: 
+  mode: source
+---
+
+<br>
+
+# The idea
+
+My first encounter with logo/identity design was when I took on the challenge of designing the new logo for the [R-Ladies Buenos Aires chapter](https://rladiesba.netlify.app/). During the creative process, we brainstormed with the other organizers, seeking to capture features that represent the City of Buenos Aires and embody the spirit of R-Ladies.
+
+After careful consideration, we chose the _Floralis Genérica_, a sculpture located in the United Nations Square. Created by Eduardo Catalano in 2002, the sculpture pays homage to flowers 🌷 and reflects the dynamism of our times with its movement. In the flower, we found a beautiful analogy to the sense of community, where the different petals/persons are part of a structure surrounding something valuable. And, like the petals, we are also in constant movment towards increasing gender inclusion and gender diversity in the R community.
+
+<br>
+
+# The process
+
+The process involved several steps, both in the design of the flower and the hex. The first thing to do was drawing all the contours of the flower in different colors according to the different structures. Then, some outlines were removed, simplifying the structure. The final steps included filling the contours in different shades of violet and, lastly, removing the otlines for a simpler image.
+
+![](steps-hex-white.png){fig-align="center" width="45%" fig-alt="Figure showing four steps in the construction of the Floralis drawing for the hex. On the top left is the initial line figure with all the contours of the flower in different colors according to the different structures. To the top right is the second step in which some outlines were removed, simplifying the structure and are now all in violet. In the bottom left is the image now with the contours filled in different shades of violet. The final design is in the bottom right, where the outlines were removed."}
+
+::: {.figure-caption}
+Steps involved in the process of the Floralis drawing.
+:::
+
+[Lastly, we had to decide the postion of the _Floralis_ and the text in the logo. This also was quite a challenge since tehre were so many options!!!!]{.topbr-xl}
+
+![](hexes.png){fig-align="center" width="55%" fig-alt="Figure showing eight different versions of hexes with the R-Ladies logo showcasing different font styles for the word Buenos aires and the flower in different positions within the outline of a violet hexagon."}
+
+::: {.figure-caption}
+Some of the MANY options of logos created.
+:::
+
+<br>
+
+# The final logo
+
+After careful consideration, we decided to portray the flower coming from the side, paired with a simple and stylish font style. We were really excited with the final outcome!e!
+
+![](logo-floralis.png){fig-align="center" width="35%" fig-alt="Figure showing eight different versions of hexes with the R-Ladies logo showcasing different font styles for the word Buenos aires and the flower in different positions within the outline of a violet hexagon."}
+
+::: {.figure-caption}
+The new logo for the R-Ladies Buenos Aires chapter.
+:::
+

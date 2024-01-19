@@ -1,0 +1,92 @@
+---
+title: "Resources for building your website with Quarto"
+description: |
+  and some extra tips ;)
+author:
+  - name: Virginia García Alonso 
+    orcid: 0000-0003-2224-8376
+    url: https://virginiagarciaalonso.github.io/
+date: 2023-12-13
+categories: [Website, Quarto, RStudio, Github, Community]
+image: media/cover.png
+#bibliography: references.bib
+format:
+  html:
+    grid:
+      body-width: 650px
+editor: 
+  mode: source
+---
+
+<br>
+
+I was motivated by all the communities of practice I know and by the generous individuals who are part of them to [share]{.bold} as much as I can [and grow collectively]{.bold}. So, I embarked on the journey to create a website as a platform to do so.
+
+I knew it was possible to use [RStudio](https://posit.co/download/rstudio-desktop/) (an environment I am confortoble with) to create a website and [GitHub](https://resources.github.com/github-and-rstudio/) to deploy it, although many also do it via [Netlify](https://www.netlify.com/). Choosing a site generator was the last thing missing. I came across many sites built with [Hugo](https://gohugo.io/about/what-is-hugo/) or [Jekyll](https://jekyllrb.com/). I definitely recommend checking out this [list of RLadies blogs](https://github.com/rladies/awesome-rladies-blogs/tree/main#list-of-blogs) for some inspiration. I finally decided to use [Quarto](https://quarto.org/) after reading [this blog post](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) from Silvia Canelón.
+
+There are many options on how to build and deploy a website, and there is not a "correct" choice, but rather "a choice that better suits you".
+
+There are [VERY GOOD]{.green-text} guidelines and examples already out there, so here's a list of the persons and resources I turned to in case you want to build your site with Quarto. And there are some extra comments and tips from my experience at the end that may also be helpful ;)
+
+<br>
+
+::: green-text-bg
+Building this website was only possible thanks to **amazing people and communities** who share their software and resources **openly** (thank you all! 🙌). I hope this post and the code on this website will contribute to this effort.
+:::
+
+<br>
+
+# Samantha Csik
+
+I do not know how I endeed up in [Samantha's website](https://samanthacsik.github.io/), but she has some of the most awesome guides to [create](https://samanthacsik.github.io/talks/2022-08-05-creating-your-personal-website-using-quarto/) and [customize](https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/) Quarto websites I could find (and in such detail and style 💜). 
+
+I based most of the design and structure of my website on her guides and checking out [her website's GitHub repository](https://github.com/samanthacsik/samanthacsik.github.io) and the site she rebuilt for [Openscapes](https://openscapes.org/). 
+
+There are also many other interesting posts includding one on how to [add a blog to your existing Quarto website](https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/) and another with more detailst on [CSS (and Sass)](https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/) to further style web pages 😎.
+
+<br>
+
+# Silvia Canelón
+
+When looking for inspiration, I really liked [Silvia Canelón's website](https://silviacanelon.com/), which was inspired by the [Hugo Apéro theme](https://hugo-apero-docs.netlify.app/) but was modified using Quarto and has all her code open in a [GitHub repository](https://github.com/spcanelon/silvia).
+
+By inspecting her site and GitHub repository, I learned how to include [favicons]{.bold} in the index and [special characters]{.bold} like "&#8729;".
+
+I also learned that I could create a [contact form]{.bold} with [formspree](https://formspree.io/html/) to have people leave messages directly on the website that I would receive in my email account.
+
+<br>
+
+## Other Quarto resources
+
+Looking for further inspiration I came across with other Quarto websites and blogs that you may also want to check out:
+
+-   Robert Mitchell's website [{{< fa arrow-up-right-from-square size=2xs >}}](https://robertmitchellv.com/) and blog on [Building with Quarto](https://robertmitchellv.com/blog/2022-08-building-with-quarto/building-with-quarto.html)
+-   Jadey Ryan's website [{{< fa arrow-up-right-from-square size=2xs >}}](https://jadeyryan.com/) and blog on [Publish a Quarto website with Netlify](https://jadeyryan.com/blog/2023-11-19_publish-quarto-website/)
+-   Maya Gans's website [{{< fa arrow-up-right-from-square size=2xs >}}](https://maya.rbind.io/)
+-   Palaeoverse's website [{{< fa arrow-up-right-from-square size=2xs >}}](https://palaeoverse.org/)
+-   Mickaël Canouil's website [{{< fa arrow-up-right-from-square size=2xs >}}](https://mickael.canouil.fr/) and [list of Quarto website examples](https://github.com/mcanouil/awesome-quarto#websites-formats)
+
+
+<br>
+
+# Some extra tips
+
+## Reisntalling everything
+
+I had a lot of problems at the beginning, with nothing rendering and many error messages I did not understand\... I could finally solve this problem following steps 1-7 from the [MEDS Installation Guide for Windows](https://ucsb-meds.github.io/meds-install-windows.html) as mentioned in [Sam Csik's post materials](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/) which recomended/explained to:
+
+     
+* instal the latest versions of R & RStudio
+
+* get Git installed/configured
+
+* get a GitHub account & your personal access token (PAT) stored
+
+
+## Styling a contact form (an any page!)
+
+I wanted to modify the style of the contact form, and I saw in [Maya's repository](https://github.com/MayaGans/mywebsite/blob/main/contact.qmd) that you could change it by adding some style parameters into the same QMD document!
+
+This approach is not limited to the contact form; you can apply it to any page! However, I do recommend being consistent and trying to set up the style in the SCSS file. Nevertheless, I have used this resource in special cases, such as the landing page, and it has been a really useful way around for some styling, given my complete absence of knowledge regarding web design.
+
+Feel free to adapt the formatting to match your preference :)

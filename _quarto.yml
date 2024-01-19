@@ -2,19 +2,52 @@ project:
   type: website
   output-dir: docs
 
+  
 website:
-  title: "virginiagarciaalonso.github.io"
+  title: "Virginia García Alonso"
+  favicon: images/favicon.png
+  
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    pinned: true
+    logo: images/favicon.png
+    logo-alt: "Three splashes of paint overlapping with each other at the centre. One yellow, another blue, and the third one green"
+    tools:
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/virginiagarciaalonso/virginiagarciaalonso.github.io
+    
+    right:
+#      - href: index.qmd
+#        text: Home
+#        icon: "house"
       - about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Communities"
+        href: communities.qmd
+      - text: "Viz gallery"
+        href: viz.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - href: cv/CV.pdf
+        text: CV
+      
+  page-footer: 
+    left: "Built with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
+    right: "[License](license.qmd) &#8729; [Contact](contact.qmd)"
+  
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - vir_theme.scss
+    link-external-newwindow: true
+    smooth-scroll: true
+    mainfont: Quicksand
     toc: true
+    page-layout: full
 
+editor: 
+  mode: source
 
-
+ 

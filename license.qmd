@@ -1,0 +1,29 @@
+---
+title: <center> License </center>
+title-block-banner: true
+format: 
+  html:
+    page-layout: full
+editor: 
+  mode: source
+---
+
+::: {.grid}
+
+::: {.g-col-md-8 .g-start-md-3 .g-col-10 .g-start-2}
+
+::: {.center-text}
+
+Content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<p> {{< fa brands creative-commons size=2xl >}} {{< fa brands creative-commons-by size=2xl >}} {{< fa brands creative-commons-sa size=2xl >}} </p>
+
+<br> 
+
+This [Creative Commons](https://creativecommons.org/) license {{< fa brands creative-commons size=1x >}} requires users to give **credit** to the creator ({{< fa brands creative-commons-by size=1x >}}-Attribution), allowing them to **distribute, remix, adapt, and build upon the material** in any medium or format, even for commercial purposes. If others remix, adapt, or build upon the material, they must license the modified material **under identical terms** ({{< fa brands creative-commons-sa size=1x >}}-ShareAlike).
+
+:::
+
+:::
+
+:::

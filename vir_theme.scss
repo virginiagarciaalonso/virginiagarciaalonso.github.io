@@ -1,0 +1,445 @@
+/*-- scss:defaults --*/
+
+
+// Fonts
+/* import from https://fonts.google.com/ and define mainfont in _quarto.yml */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+// Colors
+$green: #108690;
+$light-green: #dbedef;
+//$very-light-green: #f2f7fa;
+$very-light-green: #edf3f7;
+$blue: #2f3180;
+$dark-gray: #5A5856;
+$gray: #64605f;
+$light-gray: #d7d8d8;
+$white: #ffffff;
+$yellow: #fccf14;
+//$dark-green: #0a5b5c;
+/* can also be included as: rgba(16, 134, 144, 0.05) */
+
+
+// Base document colors
+$navbar-bg: $light-green;
+$navbar-fg: $green; 
+$navbar-hl: $blue;
+$body-bg: $very-light-green;
+$body-color: $dark-gray;
+$footer-bg: $very-light-green;
+$footer-fg: $green;
+$link-color: $green;
+$link-hover-color: $blue;
+
+
+// Inline code
+$code-bg: $white;
+$code-color: $blue;
+
+
+// Code blocks
+$code-block-bg: $white;
+
+
+
+/*-- scss:rules --*/
+
+
+/////-- ELEMENT Selectors --/////
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+  color: $green;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+  border-bottom: solid 0px;
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+body {
+  line-height: 1.5;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+footer {
+  font-size: 18px;
+}
+
+
+
+/////-- ID selectors (those starting with #) --/////
+/* (the id of the element should be unique within a web page) */
+
+
+// To make the block header smaller
+#title-block-header>div.quarto-title-banner.page-columns.page-full {
+    margin-bottom: 1.5em;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+// To remove empty space after block header
+#quarto-content>* {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+// Map size
+#map-size {
+  width: 100%;
+  height: 350px;
+}
+
+
+/////-- CLASS Selectors (those starting with .) --/////
+
+/// Text ///
+.extra-bold {
+  font-weight: 700;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.blue-text {
+  color: $blue;
+}
+
+.green-text {
+  color: $green;
+}
+
+.yellow-text {
+  color: $yellow;
+}
+
+.transparent{
+ color: rgba(16, 134, 144, 0); 
+}
+
+.small-text {
+  font-size: 16px;
+}
+
+.large-text {
+  font-size: 26px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.less-line-space {
+  line-height: 1.25 !important;
+}
+
+// Specific texts
+.figure-caption {
+  color: $gray;
+  font-style: italic;
+  font-size: 15px;
+  text-align: center;
+}
+
+.subtitle {
+  color: $dark-gray;
+  font-size: 22px;
+  margin-top: 0.25em;
+  margin-bottom: 0.5em;
+  font-weight: 400;
+}
+
+// Extra space above text
+.topbr {              
+    display: block;
+    margin-top: 0.5em;
+}
+
+// to use in gereal documents
+.topbr-xl {            
+    display: block;
+    margin-top: 2em;
+}
+
+// just used in the index
+.topbr-xxl {            
+    //display: block;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+}
+
+
+/// Images ///
+
+// Round image
+.round-image {
+    border-radius: 35px;
+}
+
+// Round borders
+.round-border {
+    border-radius: 35px;
+}
+
+  
+
+//// General style ////
+
+// To modify the empty space at the bottom
+.page-rows-contents {
+    grid-template-rows: [content-top] minmax(max-content, 1fr) [content-bottom] minmax(5px, max-content) [page-bottom];
+}
+
+// btn styling
+.btn {
+  color: $white;
+  text-align: center;
+  background-color: $green;
+  border-color: none;
+}
+
+// button hover styling
+.btn:hover {
+  color: $white;
+  text-align: center;
+  background-color: $blue;
+  border-color: none;
+}
+
+
+/// Navbar ///
+.navbar {
+  font-weight: 500;
+}
+
+// Resize logo (top left corner)
+.navbar-brand img { 
+  max-height: 40px;
+  width: auto;
+}
+
+// Size of button icon
+.bi { 
+  font-size: 22px;
+  color: $green;
+  border: none !important;
+}
+
+// Hover styling  of button icon
+.bi:hover {
+  color: $blue;
+  }
+  
+
+
+/// Footer ///
+/* can be modified individually (e.g.: .nav-footer-right{}) */
+
+.nav-footer {  
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  align-items: center;
+}
+
+
+
+/// Table of content ///
+
+// Add space between text
+.sidebar.margin-sidebar {
+    padding-left: 20px; 
+}
+
+// Modify title
+.sidebar nav[role=doc-toc]>h2 {
+  color: $dark-gray;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+// Modify the text
+.sidebar nav[role=doc-toc] ul {
+  font-size: 0.90rem;
+}
+
+
+//// Index ////
+
+// Definition and specific attributes for grid areas
+.grid-vir > .Item1 {
+    grid-area: Item1;
+    place-self: center; /* to set the column in the middle*/
+    min-height: -webkit-fill-available; /*to make the white div occupy all the column*/
+} 
+
+.grid-vir > .Item2 {
+    grid-area: Item2;
+    margin-top: auto; /*to move the text to the bottom*/
+} 
+
+.grid-vir > .Item3 {
+    grid-area: Item3;
+} 
+
+.grid-vir > .Item4 {
+    grid-area: Item4;
+} 
+
+
+// Padding for all grid items
+.grid-vir > * {
+    padding: 0.5rem;
+}  
+
+
+// Atributes for smallest view (viewed as one column)
+.grid-vir {
+    display: grid;
+    grid-template-areas: 
+    'Item1'
+    'Item2'
+    'Item3'
+    'Item4';
+    row-gap: 10px;
+}
+
+
+// Attributes for medium view
+@media (min-width: 700px) and (max-width: 900px) {
+  .grid-vir {
+    grid-template-rows: 2.5fr 1.2fr 0.8fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    'Item1 Item1'
+    'Item2 Item2'
+    'Item3 Item4';
+    column-gap: 10px;
+    row-gap: 10px;
+  }
+}
+
+
+// Attributes for full view
+@media (min-width: 900px) {
+  .grid-vir {
+    //grid-auto-columns: 1fr;
+    grid-auto-rows: 1fr;
+    //grid-template-rows: 4fr 3fr;
+    grid-template-columns: 5fr 3fr 3fr;
+    grid-template-areas: 
+    'Item1 Item2 Item2'
+    'Item1 Item3 Item4';
+    column-gap: 10px;
+    row-gap: 10px;
+  }
+}
+
+
+// Custom rounded image
+.custom-rounded-img { 
+  border-radius: 50%; 
+  height: 15em;
+  width: 13em;
+}
+
+
+// White block
+.white-div { 
+  background-color: $white;
+  max-width: 90%;
+  border-radius: 35px;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  /*padding-top: 0;
+  padding-bottom: 2%;
+  padding-right: 6%;
+  padding-left: 6%; */
+}
+
+// Extra padding to increase separation with white block
+.extra-padding {
+  padding-left: 20px; 
+  padding-right: 20px;
+}
+
+// Remove space after icons
+/* .icons {
+  margin-bottom: 0em;
+} */
+
+
+//// Viz gallery ////
+
+// Listing card styling (e.g. boxes in viz)
+.card {
+  background-color: $white;
+  border-color: $white;
+  border-radius: 35px;
+  padding-top: 5%;
+  padding-bottom: 0%;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+// Add horizontal line between image and text
+.card-body {
+  border-top: solid 0.5px;
+  border-color: $light-gray;
+}
+
+// Add space between image and horizontal line
+.quarto-grid-item p.card-img-top {
+    margin-bottom: 1em;
+}
+
+
+//// Blogs ////
+
+// Change subtitle inside each blog post
+#title-block-header.quarto-title-block.default .description, #title-block-header.quarto-title-block.default .abstract {
+    color: $dark-gray;
+    font-size: 22px;
+    margin-top: 0.25em;
+    margin-bottom: 1em;
+    font-weight: 400;
+}
+
+// Customize side bar in blogs
+#quarto-content.page-columns #quarto-margin-sidebar {
+  .quarto-listing-category-title {
+      font-size: 16px;
+  }
+  .quarto-listing-category {
+    font-size: 15px;
+  }
+}
+
+// Green block 
+.green-text-bg {
+  text-align: center;
+  background-color: $light-green;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-radius: 15px;
+}

@@ -1,11 +1,95 @@
 ---
-title: "virginiagarciaalonso.github.io"
+title: ""
+format: 
+  html:
+    page-layout: full
+editor: 
+  mode: source
 ---
 
-This is a Quarto website.
+```{=html}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<style>
 
-```{r}
-1 + 1
+h1, .h1, h2, .h2 {
+    border-bottom: 0px solid #dee2e6;
+    padding-bottom: 0rem;
+    padding-top: 0rem;
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+</style>
 ```
+
+
+::: {.grid-vir .topbr-xxl}
+
+::: {.Item1 .center-text .white-div .extra-padding}
+
+::: {}
+<div>
+  <img class="custom-rounded-img" src="images/headshot.png" alt="Picture of Virginia García Alonso showing the torso and face. Virginia is wearing a red jacket, purple scarf and her hair loose. In the background there is the sea and mountains with snow. The photo was edited to look like a painting in the website www.goart.foto employing a filter called Rich Colored which accentuates the colors and gives the sence of being a painted portrait." />
+</div>
+:::
+
+
+::: {.h1}
+Virginia García Alonso
+:::
+
+::: {.body}
+PhD in Biological Sciences &#8729; R-Ladies Co-organizer &#8729; Red JICMar Co-founder
+:::
+
+::: {.body}
+<p class="icons">
+[{{< iconify academicons researchgate-square size=lg >}}](https://www.researchgate.net/profile/Virginia-Garcia-Alonso-2) [.]{.transparent}
+[{{< iconify academicons orcid size=lg >}}](https://orcid.org/0000-0003-2224-8376) [.]{.transparent}
+[{{< iconify bi github size=lg >}}](https://github.com/virginiagarciaalonso) [.]{.transparent} [{{< iconify bi twitter size=lg >}}](https://twitter.com/VA_GarciaAlonso) [.]{.transparent} [{{< fa envelope size=lg >}}](contact.qmd)
+ </p>
+:::
+
+:::
+
+
+::: {.Item2 .extra-padding}
+
+:::{.top-br}
+[.]{.transparent}
+:::
+
+## Hi there!
+
+[I am a marine biologist from Argentina, currently residing in the UK. My interests lie in conducting [interdisciplinary research]{.bold} of marine ecosystems, creating appealing [visualizations]{.bold}, and actively engaging in and promoting [open science practices]{.bold}, including the amazing communities associated with them <i class="fa-solid fa-heart" style="color:#108690"></i>. I recently started constructing this website so new things are comming soon!]{.topbr}
+:::
+
+
+::: {.Item3 .extra-padding}
+### Education
+
+[PhD in Biological Sciences]{.bold .small-text .less-line-space}
+<p class="small-text"> University of Buenos Aires ∙ 2021 </p>
+
+[BSc in Biological Sciences]{.bold .small-text .less-line-space}
+<p class="small-text"> University of Buenos Aires ∙ 2015 </p>
+:::
+
+::: {.Item4 .extra-padding}
+### Certifications
+
+[Software Carpentries Instructor]{.bold .small-text .less-line-space}
+<p class="small-text"> The Carpentries ∙ 2021 </p>
+:::
+
+:::

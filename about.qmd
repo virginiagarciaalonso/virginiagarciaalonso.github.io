@@ -1,9 +1,61 @@
 ---
 title: "About"
+subtitle: "a bit more about me and this website"
+title-block-banner: true
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 600px
+editor: 
+  mode: source
 ---
 
-About this site
+# My journey
 
-```{r}
-1 + 1
-```
+I was born in [Mendoza]{.bold} (well known for its Malbec wine 🍷) and lived in three other provinces of Argentina. Regardless of my location, I have always been fascinated by animals and nature around me, especially at the sea 🌊.
+
+
+I decided to study [Biological Sciences]{.bold} at the Faculty of Exact and Natural Sciences ([FCEN](https://exactas.uba.ar/)) of the University of Buenos Aires ([UBA](https://www.uba.ar/)), which basically became my home. 
+
+After years studying and drinking lots of mates 🧉, I obtained my Bachelors Degree defending my Graduate Thesis (equivalent to a Master's Thesis) on Antarctic [Chaetognaths]{.bold} ---some really cool marine invertebrates with hooks on their heads.
+
+I then pursued a Doctoral degree at the UBA. Financed by fellowships awarded by the [UBA]{.bold} and the [National Scientific and Technical Research Council]{.bold} ([CONICET](https://www.conicet.gov.ar/)), I studied early life stages of [Fuegian sprat]{.bold} 🐟 in Argentina´s first Marine Protected Area. As part of the research project, I was able to board a research vessel for more than 30 days (twice!) and work with researchers from various disciplines in the middle of the sea.
+
+::: center-text
+![](images/sunset.png){.round-border fig-align="center" width="75%" fig-alt="Picture of a sunset at sea taken during one of the cruises to the Marine Protected Area Namuncurá. Most of the picture is ocupied by the sea and the sky, with the sky showing a bright yellow color just on top of the sea which looks dark with the light reflecting on it. There can also be seen part of the port side of the ship at the right."}
+:::
+
+::: {.center-text .figure-caption}
+Some of the most amazing sunsets I have ever seen ocurred during the cruises to the Marine Protected Area Namuncurá at Burdwood Bank (Argentina).
+:::
+
+<br>
+
+I extended my research on Fuegian sprat during a Postdoctoral fellowship while working as a Part-time Lecturer of *Biostatistics* at the UBA.
+
+During my last years of the PhD I got involved with the [R-Ladies Buenos Aires chapter](https://rladiesba.netlify.app/), first as an attendant to their meetings, and then as an organizer. This experience was so positive and enriching that it led me to get involved with many other amazing [communities of practice](communities.qmd). So, besides my passion for marine sciences, I became an advocate for [open science practices]{.bold}.
+
+<br>
+
+# This website
+
+All the communities of practice I know are built by generous individuals who believe that [sharing enhances collective strength]{.bold}. Learning from their knowledge and experiences has been crucial in both my academic and personal journeys. I created this website as a small contribution to this cause, aiming to share my knowledge and experiences with the hope that it may benefit others.
+
+The code of this website is accessible in this [GitHub repository](https://github.com/virginiagarciaalonso/virginiagarciaalonso.github.io) under a [Creative Commons License (CC BY-SA 4.0)](license.qmd). You can find some resources and tips for creating your own website with Quarto in [this blog post](blog/2023-12-13-website/index.qmd).
+
+
+## The logo
+
+In addition to marine science and open science, I got hooked on the world of [data visualisation]{.bold}, and then [visualisations in general]{.bold}. Being creative and thinking of ways to design effective and engaging visualisations has become another important feature of the projects I do. You can find some of the projects I've been involved at this [Viz Gallery](viz.qmd).
+
+I aimed to portray all of the above in the logo, which was a challenging task. However, I managed to create something meaningful that I really like :)
+
+
+![](images/favicon.png){fig-align="center" width="35%" fig-alt="Three splashes of paint overlapping with each other at the centre. One yellow, another blue, and the third one green."}
+
+It has paint splashes (my artistic input 🎨) in three colors: 
+
+-  [blue]{.bold .blue-text} for my love for marine sciences 
+-  [yellow]{.bold .yellow-text} portraying the positiive impact from communites of practice 
+-  [green]{.bold .green-text} representing the intersection of the previous "colors". This is crystallizing in the [Red JICMar](https://github.com/redjicmar), a community made by and for early career researchers in Marine Sciences from Latin America (you can read more about it in this [GitHub repository](https://github.com/redjicmar/redjicmar)).

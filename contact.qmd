@@ -1,0 +1,109 @@
+---
+title: <center>Contact</center>
+title-block-banner: true
+format: 
+  html:
+    page-layout: full
+editor: 
+  mode: source
+---
+
+::: {.grid}
+
+::: {.g-col-md-8 .g-start-md-3 .g-col-10 .g-start-2}
+
+::: {.center-text}
+[Feel free to reach out!]{.large-text .almost-bold}
+
+
+::: {.topbr-xl}
+You can send me an email to [garciaalonso.v.a\@gmail.com]{.blue-text} or leave a message here:
+:::
+
+
+<br>
+
+::: {.email-container}
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form action="https://formspree.io/f/xqkvvako" method="POST">
+
+<label> [Your email:]{.bold} </label>
+
+<input type="email" name="email" style="background-color:#ffffff">
+
+<br>
+
+<label> [Your message:]{.bold}
+
+```{=html}
+<textarea name="message" style="background-color:#ffffff"></textarea>
+```
+</label>
+
+<br>
+
+<!-- your other form fields go here -->
+
+<button class="btn" type="submit">
+
+[Send]{.bold}
+
+</button>
+
+</form>
+:::
+
+:::
+
+:::
+
+:::
+
+```{=html}
+<style>
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+p {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    width: 100%;
+}
+
+input[type=email], textarea {
+  width: 100%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.email-container {
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.email-container label {
+    width: 100%;
+    text-align: left;
+}
+
+.email-container textarea {
+   min-height: 150px;
+
+}
+
+
+[type=submit]:not(:disabled) {
+    cursor: pointer;
+    width: 150px;
+    text-align: center;
+}
+
+    
+</style>
+```

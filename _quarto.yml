@@ -20,7 +20,8 @@ website:
 #      - href: index.qmd
 #        text: Home
 #        icon: "house"
-      - about.qmd
+      - text: "About"
+        href: about.qmd
       - text: "Research"
         href: research.qmd
       - text: "Communities"

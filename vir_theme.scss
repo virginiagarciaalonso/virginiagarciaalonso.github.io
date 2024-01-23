@@ -414,6 +414,12 @@ footer {
 
 //// Blogs ////
 
+// Change subtitle in the general Index
+div.quarto-post .body .listing-subtitle {
+    font-size: 1em;
+    margin-top: 1em;
+}
+
 // Change subtitle inside each blog post
 #title-block-header.quarto-title-block.default .description, #title-block-header.quarto-title-block.default .abstract {
     color: $dark-gray;

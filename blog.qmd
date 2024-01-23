@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-subtitle: "a place to share things :) (more coming soon!)"
+subtitle: "a place to share things :) more coming soon!"
 listing:
   contents: blog
   sort: "date desc"
@@ -11,12 +11,14 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  fields: [title, subtitle, date, categories, image]
+  grid-columns: 2
 #page-layout: full
 title-block-banner: true
 format:
   html:
     grid:
-      sidebar-width: 135px
+      sidebar-width: 250px
       body-width: 650px
 editor: 
   mode: source

@@ -6,7 +6,7 @@ format:
   html:
     grid:
       sidebar-width: 250px
-      body-width: 600px
+      body-width: 650px
 editor: 
   mode: source
 ---

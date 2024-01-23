@@ -1,6 +1,6 @@
 ---
 title: "Resources for building your website with Quarto"
-description: |
+subtitle: |
   and some extra tips ;)
 author:
   - name: Virginia García Alonso 

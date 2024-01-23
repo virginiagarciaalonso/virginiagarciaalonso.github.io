@@ -35,7 +35,14 @@ website:
       
   page-footer: 
     left: "Built with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
-    right: "[License](license.qmd) &#8729; [Contact](contact.qmd)"
+    right: 
+      - text: "License"
+        aria-label: "License details"
+        href: license.qmd
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: contact.qmd
+
   
 
 format:
@@ -46,7 +53,7 @@ format:
     smooth-scroll: true
     mainfont: Quicksand
     toc: true
-    page-layout: full
+    #page-layout: full
 
 editor: 
   mode: source

@@ -46,7 +46,7 @@ Some of the MANY options of logos created.
 
 # The final logo
 
-After careful consideration, we decided to portray the flower coming from the side, paired with a simple and stylish font style. We were really excited with the final outcome!e!
+After careful consideration, we decided to portray the flower coming from the side, paired with a simple and stylish font style. We were really excited with the final outcome!
 
 ![](logo-floralis.png){fig-align="center" width="35%" fig-alt="Figure showing eight different versions of hexes with the R-Ladies logo showcasing different font styles for the word Buenos aires and the flower in different positions within the outline of a violet hexagon."}
 

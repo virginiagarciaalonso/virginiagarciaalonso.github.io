@@ -35,13 +35,7 @@ website:
       
   page-footer: 
     left: "Built with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
-    right: 
-      - text: "License"
-        aria-label: "License details"
-        href: license.qmd
-      - text: "Contact"
-        aria-label: "Contact Form"
-        href: contact.qmd
+    right: "[License](https://virginiagarciaalonso.github.io/license.html) &#8729; [Contact](https://virginiagarciaalonso.github.io/contact.html)"
 
   
 

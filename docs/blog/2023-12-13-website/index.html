@@ -8,7 +8,6 @@
 
 <meta name="author" content="Virginia García Alonso">
 <meta name="dcterms.date" content="2023-12-13">
-<meta name="description" content="and some extra tips ;)">
 
 <title>Virginia García Alonso - Resources for building your website with Quarto</title>
 <style>
@@ -126,12 +125,8 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
       <h1 class="title">Resources for building your website with Quarto</h1>
-                  <div>
-        <div class="description">
-          <p>and some extra tips ;)</p>
-        </div>
-      </div>
-                          <div class="quarto-categories">
+            <p class="subtitle lead"></p><p>and some extra tips ;)</p><p></p>
+                                <div class="quarto-categories">
                 <div class="quarto-category">Website</div>
                 <div class="quarto-category">Quarto</div>
                 <div class="quarto-category">RStudio</div>
@@ -177,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#some-extra-tips" id="toc-some-extra-tips" class="nav-link" data-scroll-target="#some-extra-tips">Some extra tips</a>
   <ul class="collapse">
-  <li><a href="#reisntalling-everything" id="toc-reisntalling-everything" class="nav-link" data-scroll-target="#reisntalling-everything">Reisntalling everything</a></li>
+  <li><a href="#reinstalling-everything" id="toc-reinstalling-everything" class="nav-link" data-scroll-target="#reinstalling-everything">Reinstalling everything</a></li>
   <li><a href="#styling-a-contact-form-an-any-page" id="toc-styling-a-contact-form-an-any-page" class="nav-link" data-scroll-target="#styling-a-contact-form-an-any-page">Styling a contact form (an any page!)</a></li>
   </ul></li>
   </ul>
@@ -191,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p><br></p>
 <p>I was motivated by all the communities of practice I know and by the generous individuals who are part of them to <span class="bold">share</span> as much as I can <span class="bold">and grow collectively</span>. So, I embarked on the journey to create a website as a platform to do so.</p>
-<p>I knew it was possible to use <a href="https://posit.co/download/rstudio-desktop/">RStudio</a> (an environment I am confortoble with) to create a website and <a href="https://resources.github.com/github-and-rstudio/">GitHub</a> to deploy it, although many also do it via <a href="https://www.netlify.com/">Netlify</a>. Choosing a site generator was the last thing missing. I came across many sites built with <a href="https://gohugo.io/about/what-is-hugo/">Hugo</a> or <a href="https://jekyllrb.com/">Jekyll</a>. I definitely recommend checking out this <a href="https://github.com/rladies/awesome-rladies-blogs/tree/main#list-of-blogs">list of RLadies blogs</a> for some inspiration. I finally decided to use <a href="https://quarto.org/">Quarto</a> after reading <a href="https://silviacanelon.com/blog/2023-09-29-hello-quarto/">this blog post</a> from Silvia Canelón.</p>
+<p>I knew it was possible to use <a href="https://posit.co/download/rstudio-desktop/">RStudio</a> (an environment I am comfortoble with) to create a website and <a href="https://resources.github.com/github-and-rstudio/">GitHub</a> to deploy it, although many also do it via <a href="https://www.netlify.com/">Netlify</a>. Choosing a site generator was the last thing missing. I came across many sites built with <a href="https://gohugo.io/about/what-is-hugo/">Hugo</a> or <a href="https://jekyllrb.com/">Jekyll</a>. I definitely recommend checking out this <a href="https://github.com/rladies/awesome-rladies-blogs/tree/main#list-of-blogs">list of RLadies blogs</a> for some inspiration. I finally decided to use <a href="https://quarto.org/">Quarto</a> after reading <a href="https://silviacanelon.com/blog/2023-09-29-hello-quarto/">this blog post</a> from Silvia Canelón.</p>
 <p>There are many options on how to build and deploy a website, and there is not a “correct” choice, but rather “a choice that better suits you”.</p>
 <p>There are <span class="green-text">VERY GOOD</span> guidelines and examples already out there, so here’s a list of the persons and resources I turned to in case you want to build your site with Quarto. And there are some extra comments and tips from my experience at the end that may also be helpful ;)</p>
 <p><br></p>
@@ -201,9 +196,9 @@ ul.task-list li input[type="checkbox"] {
 <p><br></p>
 <section id="samantha-csik" class="level1">
 <h1>Samantha Csik</h1>
-<p>I do not know how I endeed up in <a href="https://samanthacsik.github.io/">Samantha’s website</a>, but she has some of the most awesome guides to <a href="https://samanthacsik.github.io/talks/2022-08-05-creating-your-personal-website-using-quarto/">create</a> and <a href="https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/">customize</a> Quarto websites I could find (and in such detail and style 💜).</p>
+<p>I do not know how I ended up in <a href="https://samanthacsik.github.io/">Samantha’s website</a>, but she has some of the most awesome guides to <a href="https://samanthacsik.github.io/talks/2022-08-05-creating-your-personal-website-using-quarto/">create</a> and <a href="https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/">customize</a> Quarto websites I could find (and in such detail and style 💜).</p>
 <p>I based most of the design and structure of my website on her guides and checking out <a href="https://github.com/samanthacsik/samanthacsik.github.io">her website’s GitHub repository</a> and the site she rebuilt for <a href="https://openscapes.org/">Openscapes</a>.</p>
-<p>There are also many other interesting posts includding one on how to <a href="https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/">add a blog to your existing Quarto website</a> and another with more detailst on <a href="https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/">CSS (and Sass)</a> to further style web pages 😎.</p>
+<p>There are also many other interesting posts including one on how to <a href="https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/">add a blog to your existing Quarto website</a> and another with more details on <a href="https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/">CSS (and Sass)</a> to further style web pages 😎.</p>
 <p><br></p>
 </section>
 <section id="silvia-canelón" class="level1">
@@ -227,11 +222,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="some-extra-tips" class="level1">
 <h1>Some extra tips</h1>
-<section id="reisntalling-everything" class="level2">
-<h2 class="anchored" data-anchor-id="reisntalling-everything">Reisntalling everything</h2>
-<p>I had a lot of problems at the beginning, with nothing rendering and many error messages I did not understand... I could finally solve this problem following steps 1-7 from the <a href="https://ucsb-meds.github.io/meds-install-windows.html">MEDS Installation Guide for Windows</a> as mentioned in <a href="https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/">Sam Csik’s post materials</a> which recomended/explained to:</p>
+<section id="reinstalling-everything" class="level2">
+<h2 class="anchored" data-anchor-id="reinstalling-everything">Reinstalling everything</h2>
+<p>I had a lot of problems at the beginning, with nothing rendering and many error messages I did not understand... I could finally solve this problem following steps 1-7 from the <a href="https://ucsb-meds.github.io/meds-install-windows.html">MEDS Installation Guide for Windows</a> as mentioned in <a href="https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/">Sam Csik’s post materials</a> which recommended/explained to:</p>
 <ul>
-<li><p>instal the latest versions of R &amp; RStudio</p></li>
+<li><p>install the latest versions of R &amp; RStudio</p></li>
 <li><p>get Git installed/configured</p></li>
 <li><p>get a GitHub account &amp; your personal access token (PAT) stored</p></li>
 </ul>
@@ -501,7 +496,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right"><a href="../../license.html">License</a> ∙ <a href="https://virginiagarciaalonso.github.io/contact.html">Contact</a></div>
+    <div class="nav-footer-right"><a href="../../license.html">License</a> ∙ <a href="../../contact.html">Contact</a></div>
   </div>
 </footer>
 

@@ -39,7 +39,7 @@ p {
 
 ::: {}
 <div>
-  <img class="custom-rounded-img" src="images/headshot.png" alt="Picture of Virginia García Alonso showing the torso and face. Virginia is wearing a red jacket, purple scarf and her hair loose. In the background there is the sea and mountains with snow. The photo was edited to look like a painting in the website www.goart.foto employing a filter called Rich Colored which accentuates the colors and gives the sence of being a painted portrait." />
+  <img class="custom-rounded-img" src="images/headshot.png" alt="Picture of Virginia García Alonso showing the torso and face. Virginia is wearing a red jacket, purple scarf and her hair loose. In the background there is the sea and mountains with snow. The photo was edited to look like a painting in the website www.goart.foto employing a filter called Rich Colored which accentuates the colors and gives the sense of being a painted portrait." />
 </div>
 :::
 
@@ -71,7 +71,7 @@ PhD in Biological Sciences &#8729; R-Ladies Co-organizer &#8729; Red JICMar Co-f
 
 ## Hi there!
 
-[I am a marine biologist from Argentina, currently residing in the UK. My interests lie in conducting [interdisciplinary research]{.bold} of marine ecosystems, creating appealing [visualizations]{.bold}, and actively engaging in and promoting [open science practices]{.bold}, including the amazing communities associated with them <i class="fa-solid fa-heart" style="color:#108690"></i>. I recently started constructing this website so new things are comming soon!]{.topbr}
+[I am a marine biologist from Argentina, currently residing in the UK. My interests lie in conducting [interdisciplinary research]{.bold} of marine ecosystems, creating appealing [visualizations]{.bold}, and actively engaging in and promoting [open science practices]{.bold}, including the amazing communities associated with them <i class="fa-solid fa-heart" style="color:#108690"></i>. I recently started constructing this website so new things are coming soon!]{.topbr}
 :::
 
 

@@ -13,7 +13,7 @@ listing:
   image-height: 100%
   sort-ui: false
   filter-ui: false
-#page-layout: full
+page-layout: full
 format:
   html:
     grid:

@@ -18,11 +18,11 @@ Following my interest and passion for [Marine Sciences]{.bold}, I participated i
 
 # Interdisciplinary study of Fuegian sprat
 
-During my PhD and Postdoctoral postion I carried out an project with oceanographers and fellow biologists in which I studied early life stages of [Fuegian sprat (_Sprattus fuegensis_)]{.bold} 🐟. This species is one of the most important pelagic resources in the Southwest Atlantic Ocean and, due to their high abundance and intermediary trophic role, they represent a [key species in the marine ecosystems they inhabit]{.bold}. 
+During my PhD and Postdoctoral position I carried out an project with oceanographers and fellow biologists in which I studied early life stages of [Fuegian sprat (_Sprattus fuegensis_)]{.bold} 🐟. This species is one of the most important pelagic resources in the Southwest Atlantic Ocean and, due to their high abundance and intermediary trophic role, they represent a [key species in the marine ecosystems they inhabit]{.bold}. 
 
 The [main objective]{.bold} of this project was to [assess their early stages’ spatial and temporal dynamics and their relation with abiotic and biotic factors]{.bold}.
 
-We were able to collect samples in 7 oceanographic surveys carried out in Argentina´s first Marine Protected Area "Namuncurá" at Burdwood Bank for the first time and in western adjacent areas towards Tierra del Fuego. These surveys ocurred in spring, summer and autumn in both of the places mentioned, allowing the comparisson of spatio-temporal patterns. Also, we were able to count with biotic (zooplancton) and abiotic (water temperature and salinity) variables from the same samples.
+We were able to collect samples in 7 oceanographic surveys carried out in Argentina´s first Marine Protected Area "Namuncurá" at Burdwood Bank for the first time and in western adjacent areas towards Tierra del Fuego. These surveys occurred in spring, summer and autumn in both of the places mentioned, allowing the comparison of spatio-temporal patterns. Also, we were able to count with biotic (zooplankton) and abiotic (water temperature and salinity) variables from the same samples.
 
 Below are the different analyses we carried out and the main results.
 
@@ -39,7 +39,7 @@ We then conducted [particle-tracking simulations]{.bold} based on egg abundance 
 
 ![](images/fig_model.png){fig-align="center" width="45%" fig-alt="..."}
 
-Particle transport provided evidence of connectivity between IE and neighbouring areas—enhanced when horizontal diffusivity is incorporated into the model—but not between TDF and BB. 
+Particle transport provided evidence of connectivity between IE and neighboring areas—enhanced when horizontal diffusivity is incorporated into the model—but not between TDF and BB. 
 
 ![](images/fig_model_res.png){fig-align="center" width="45%" fig-alt="..."}
 

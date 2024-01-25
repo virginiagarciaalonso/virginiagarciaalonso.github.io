@@ -23,11 +23,11 @@ After years studying and drinking lots of mates 🧉, I obtained my Bachelors De
 I then pursued a Doctoral degree at the UBA. Financed by fellowships awarded by the [UBA]{.bold} and the [National Scientific and Technical Research Council]{.bold} ([CONICET](https://www.conicet.gov.ar/)), I studied early life stages of [Fuegian sprat]{.bold} 🐟 in Argentina´s first Marine Protected Area. As part of the research project, I was able to board a research vessel for more than 30 days (twice!) and work with researchers from various disciplines in the middle of the sea.
 
 ::: center-text
-![](images/sunset.png){.round-border fig-align="center" width="75%" fig-alt="Picture of a sunset at sea taken during one of the cruises to the Marine Protected Area Namuncurá. Most of the picture is ocupied by the sea and the sky, with the sky showing a bright yellow color just on top of the sea which looks dark with the light reflecting on it. There can also be seen part of the port side of the ship at the right."}
+![](images/sunset.png){.round-border fig-align="center" width="75%" fig-alt="Picture of a sunset at sea taken during one of the cruises to the Marine Protected Area Namuncurá. Most of the picture is occupied by the sea and the sky, with the sky showing a bright yellow color just on top of the sea which looks dark with the light reflecting on it. There can also be seen part of the port side of the ship at the right."}
 :::
 
 ::: {.center-text .figure-caption}
-Some of the most amazing sunsets I have ever seen ocurred during the cruises to the Marine Protected Area Namuncurá at Burdwood Bank (Argentina).
+Some of the most amazing sunsets I have ever seen occurred during the cruises to the Marine Protected Area Namuncurá at Burdwood Bank (Argentina).
 :::
 
 <br>
@@ -47,15 +47,15 @@ The code of this website is accessible in this [GitHub repository](https://githu
 
 ## The logo
 
-In addition to marine science and open science, I got hooked on the world of [data visualisation]{.bold}, and then [visualisations in general]{.bold}. Being creative and thinking of ways to design effective and engaging visualisations has become another important feature of the projects I do. You can find some of the projects I've been involved at this [Viz Gallery](viz.qmd).
+In addition to marine science and open science, I got hooked on the world of [data visualization]{.bold}, and then [visualizations in general]{.bold}. Being creative and thinking of ways to design effective and engaging visualizations has become another important feature of the projects I do. You can find some of the projects I've been involved at this [Viz Gallery](viz.qmd).
 
 I aimed to portray all of the above in the logo, which was a challenging task. However, I managed to create something meaningful that I really like :)
 
 
-![](images/favicon.png){fig-align="center" width="35%" fig-alt="Three splashes of paint overlapping with each other at the centre. One yellow, another blue, and the third one green."}
+![](images/favicon.png){fig-align="center" width="35%" fig-alt="Three splashes of paint overlapping with each other at the center. One yellow, another blue, and the third one green."}
 
 It has paint splashes (my artistic input 🎨) in three colors: 
 
 -  [blue]{.bold .blue-text} for my love for marine sciences 
--  [yellow]{.bold .yellow-text} portraying the positiive impact from communites of practice 
+-  [yellow]{.bold .yellow-text} portraying the positive impact from communities of practice 
 -  [green]{.bold .green-text} representing the intersection of the previous "colors". This is crystallizing in the [Red JICMar](https://github.com/redjicmar), a community made by and for early career researchers in Marine Sciences from Latin America (you can read more about it in this [GitHub repository](https://github.com/redjicmar/redjicmar)).

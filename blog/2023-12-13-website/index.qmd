@@ -22,7 +22,7 @@ editor:
 
 I was motivated by all the communities of practice I know and by the generous individuals who are part of them to [share]{.bold} as much as I can [and grow collectively]{.bold}. So, I embarked on the journey to create a website as a platform to do so.
 
-I knew it was possible to use [RStudio](https://posit.co/download/rstudio-desktop/) (an environment I am confortoble with) to create a website and [GitHub](https://resources.github.com/github-and-rstudio/) to deploy it, although many also do it via [Netlify](https://www.netlify.com/). Choosing a site generator was the last thing missing. I came across many sites built with [Hugo](https://gohugo.io/about/what-is-hugo/) or [Jekyll](https://jekyllrb.com/). I definitely recommend checking out this [list of RLadies blogs](https://github.com/rladies/awesome-rladies-blogs/tree/main#list-of-blogs) for some inspiration. I finally decided to use [Quarto](https://quarto.org/) after reading [this blog post](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) from Silvia Canelón.
+I knew it was possible to use [RStudio](https://posit.co/download/rstudio-desktop/) (an environment I am comfortoble with) to create a website and [GitHub](https://resources.github.com/github-and-rstudio/) to deploy it, although many also do it via [Netlify](https://www.netlify.com/). Choosing a site generator was the last thing missing. I came across many sites built with [Hugo](https://gohugo.io/about/what-is-hugo/) or [Jekyll](https://jekyllrb.com/). I definitely recommend checking out this [list of RLadies blogs](https://github.com/rladies/awesome-rladies-blogs/tree/main#list-of-blogs) for some inspiration. I finally decided to use [Quarto](https://quarto.org/) after reading [this blog post](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) from Silvia Canelón.
 
 There are many options on how to build and deploy a website, and there is not a "correct" choice, but rather "a choice that better suits you".
 
@@ -38,11 +38,11 @@ Building this website was only possible thanks to **amazing people and communiti
 
 # Samantha Csik
 
-I do not know how I endeed up in [Samantha's website](https://samanthacsik.github.io/), but she has some of the most awesome guides to [create](https://samanthacsik.github.io/talks/2022-08-05-creating-your-personal-website-using-quarto/) and [customize](https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/) Quarto websites I could find (and in such detail and style 💜). 
+I do not know how I ended up in [Samantha's website](https://samanthacsik.github.io/), but she has some of the most awesome guides to [create](https://samanthacsik.github.io/talks/2022-08-05-creating-your-personal-website-using-quarto/) and [customize](https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/) Quarto websites I could find (and in such detail and style 💜). 
 
 I based most of the design and structure of my website on her guides and checking out [her website's GitHub repository](https://github.com/samanthacsik/samanthacsik.github.io) and the site she rebuilt for [Openscapes](https://openscapes.org/). 
 
-There are also many other interesting posts includding one on how to [add a blog to your existing Quarto website](https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/) and another with more detailst on [CSS (and Sass)](https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/) to further style web pages 😎.
+There are also many other interesting posts including one on how to [add a blog to your existing Quarto website](https://samanthacsik.github.io/talks_workshops/2022-10-24-quarto-blogs/) and another with more details on [CSS (and Sass)](https://samanthacsik.github.io/talks_workshops/2023-08-03-just-enough-css/) to further style web pages 😎.
 
 <br>
 
@@ -71,12 +71,12 @@ Looking for further inspiration I came across with other Quarto websites and blo
 
 # Some extra tips
 
-## Reisntalling everything
+## Reinstalling everything
 
-I had a lot of problems at the beginning, with nothing rendering and many error messages I did not understand\... I could finally solve this problem following steps 1-7 from the [MEDS Installation Guide for Windows](https://ucsb-meds.github.io/meds-install-windows.html) as mentioned in [Sam Csik's post materials](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/) which recomended/explained to:
+I had a lot of problems at the beginning, with nothing rendering and many error messages I did not understand\... I could finally solve this problem following steps 1-7 from the [MEDS Installation Guide for Windows](https://ucsb-meds.github.io/meds-install-windows.html) as mentioned in [Sam Csik's post materials](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/) which recommended/explained to:
 
      
-* instal the latest versions of R & RStudio
+* install the latest versions of R & RStudio
 
 * get Git installed/configured
 

@@ -13,17 +13,20 @@ editor:
 
 <br>
 
-I have crossed roads with [incredible communities]{.bold} (and the people behind them!) which promote gender diversity, inclusivity, and the implementation of open science practices along among other valuable missions.
+I have crossed roads with [incredible communities of practice]{.bold} (and the people behind them <i class="fa-solid fa-heart" style="color:#108690"></i>) which promote gender diversity, inclusivity, and the implementation of open science practices along among other valuable missions.
 
-Here are some of the many communities out there to which I've joined, in case they can be useful to you too!
 
 <br>
 
-# ![](images/logo-rladies.png){width="10%" fig-alt="Hexagonal logo of R-Ladies"} R-Ladies 
+# ![](images/logo-rladies.png){width="10%" fig-alt="Hexagonal logo of R-Ladies"} R-Ladies: where it started
+
 
 [R-Ladies](https://rladies.org/) is a worldwide organization whose mission is to [promote gender diversity within the R community]{.bold} in the quest to improve accessibility and inclusion.
 
 I first heard of R-Ladies from [Laura Ación](http://lacion.rbind.io/) during an undergraduate course of _Biostatistics_ at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. This was the first time I ever became aware of the existence of such communities and joining the [Buenos Aires chapter](https://rladiesba.netlify.app/) was a life-changing experience.
+
+I since then became a [Chapter Organizer ]{.bold} for the Buenos Aires Chapter and I am on the onboarding process to join the [Global Mentoring Team]{.bold}.
+
 
 There are chapters all around the world and they hold on-site and/or online events in which people can share their R codes, new packages, and so many other things. Above all, the community is a safe and really welcoming space for under-represented gender minorities (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender). 
 
@@ -31,7 +34,33 @@ You can look for local chapters in the [R-Ladies website](https://rladies.org/) 
 
 <br>
 
-# ![](images/logo-carpentries.png){width="8%" fig-alt="The Carpentries logo"} The Carpentries 
+# ![](images/logo-jicmar.png){width="10%" fig-alt="Round logo of JICMar network for young marine researchers in Latin America"} JICMar network: where it’s going
+
+
+A group of colleagues from the University of Buenos Aires and I encountered we had recently faced similar challenges in terms of opportunities to grow and evolve as early career researchers in marine sciences. 
+
+We saw there was [poor access and lack of knowledge regarding possible funding and collaboration opportunities]{.bold}, and that these challenges were shared by researchers all over Latin America where there are severe economic disadvantages and English is not the first Language.
+
+So, motivated by other communities of practice, we decided to try and tackle some of these barriers by creating a [network by and for marine early career researchers in Latin America]{.bold}. Our main goals are to:
+
+* Generate a [database]{.bold} of ocean science related institutions, groups and individuals to facilitate connection and collaboration between members.
+* Provide information on potential [job opportunities]{.bold} in the field of ocean science.
+* Provide guidance in applying for and identifying sources of [funding]{.bold}.
+* Generate spaces for [exchange between young researchers]{.bold} in marine sciences in the framework of workshops, conferences and meetings.
+
+We recently participated in the [Open Seeds program](https://openlifesci.org/openseeds/) of [Open Life Science](https://openlifesci.org/) in which we learned best practices for creating and maintaining this community and and do it so openly (there is more info below). The network is still under development, but will be soon launching its website!
+
+Oh, and besides being lucky enough to work alongside friends, I also got the chance to be creative and [develop the logo and other identity features]{.bold} for this project (check about it out in the [Viz gallery](viz.qmd))
+
+<br>
+
+# Other amazing communities I met along the way
+
+Here are some of the many communities out there from which I have learned valuable lessons and meet even more awesome persons. Maybe they can be useful to you too!
+
+<br>
+
+## ![](images/logo-carpentries.png){width="8%" fig-alt="The Carpentries logo"} The Carpentries 
 
 [The Carpentries](https://carpentries.org/index.html) is a community formed by instructors, trainers, maintainers, helpers, and supporters that teaches [foundational coding and data science skills to researchers worldwide]{.bold}. 
 
@@ -41,7 +70,7 @@ You can also [become an Instructure](https://carpentries.org/become-instructor/)
 
 <br>
 
-# ![](images/logo-metadocencia.png){width="12%" fig-alt="Metadocencia logo"}Metadocencia
+## ![](images/logo-metadocencia.png){width="8%" fig-alt="Metadocencia logo"} Metadocencia
 
 [Metadocencia](https://www.metadocencia.org/) is a community that works to [make the production, communication, and application of scientific and technical knowledge equitable globally]{.bold}.
 
@@ -49,7 +78,7 @@ They do remote and free courses intended for Spanish-speaking teachers and pay p
 
 <br>
 
-# ![](images/logo-latinr.png){width="8%" fig-alt="Hexagonal logo of LatinR"}   LatinR
+## ![](images/logo-latinr.png){width="8%" fig-alt="Hexagonal logo of LatinR"}   LatinR
 
 [LatinR](https://latin-r.com/en/) is a [Latin American Conference on the Use of R in Research + Development]{.bold}.
 
@@ -57,21 +86,21 @@ Besides holding on-site or online conferences, the community also has a [Slack](
 
 <br>
 
-# ![](images/logo-r4ds.png){width="13%" fig-alt="Hexagonal logo of R for Data Science"} R for Data Science
+## ![](images/logo-r4ds.png){width="7.75%" fig-alt="Hexagonal logo of R for Data Science"} R for Data Science
 
 This is actually a [book](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund that [teaches you how to do data science with R]{.bold}. But a [Data Science Learning Community](https://rfordatasci.com/) was built around it, with a Slack where people can ask for help, share job opportunities, advertise R-related events and more.
 
 <br>
 
-# ![](images/logo-ols.png){width="10%" fig-alt="Open Life Science logo"}  Open Life Science
+## ![](images/logo-ols.png){width="10%" fig-alt="Open Life Science logo"}  Open Life Science
 
-[Open Life Science](https://openlifesci.org/) is a not-for profit organization dedicated to [capacity building and diversifying leadership in research worldwide]{.bold}. Theys strive for a future where research is accessible, inclusive, and equitable for everyone.
+[Open Life Science](https://openlifesci.org/) is a not-for profit organization dedicated to [capacity building and diversifying leadership in research worldwide]{.bold}. They strive for a future where research is accessible, inclusive, and equitable for everyone.
 
 They provide the [Open Seeds program](https://openlifesci.org/openseeds/) for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities.
 
 <br>
 
-# ![](images/logo-ohw.png){width="8%" fig-alt="OceanHackWeek logo"}   OceanHackWeek
+## ![](images/logo-ohw.png){width="8%" fig-alt="OceanHackWeek logo"}   OceanHackWeek
 
 [OceanHackWeek](https://oceanhackweek.org/) is a 5-day collaborative learning experience aimed at [exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data]{.bold}. It includes tutorials, data exploration, software development, collaborative projects and community networking.
 
@@ -79,7 +108,7 @@ There is also a Slack channel for participants and mentors to exchange questions
 
 <br>
 
-# ![](images/logo-respatial.png){width="10%" fig-alt="Respatial_es logo"}  RSpatial_ES
+## ![](images/logo-respatial.png){width="9%" fig-alt="Respatial_es logo"}  RSpatial_ES
 
 [RSpatial_ES](https://rspatial_es.gitlab.io) is the [Spanish speaking community of R users dedicated to spatial analysis and related aspects]{.bold}. They embarked on the experience of translating knowledge into the Spanish language and making it accessible mainly in Latin America. Members have access to community support, information and news about R and Rspatial
 tutorials, talks and courses, and contributions and reviews of their developments.
@@ -88,7 +117,7 @@ The community started and is maintained as a [Telegram group](https://t.me/rspat
 
 <br>
 
-# ![](images/logo-ttw.png){width="8%" fig-alt="Hexagonal logo of The Turing Way"}  The Turing Way
+## ![](images/logo-ttw.png){width="8%" fig-alt="Hexagonal logo of The Turing Way"}  The Turing Way
 
 [The Turing Way](https://the-turing-way.netlify.app/index.html) is an open source, open collaboration, and community-driven project. They are involved and support a diverse community of contributors to [make data science accessible, comprehensible and effective for everyone]{.bold}. Their goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 

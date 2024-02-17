@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Virginia García Alonso",
     "section": "",
-    "text": "Virginia García Alonso\n\n\nPhD in Biological Sciences ∙ R-Ladies Co-organizer ∙ Red JICMar Co-founder\n\n\n\n .  .  .  . \n\n\n\n\n\n.\n\n\n\nI am a marine biologist from Argentina, currently residing in the UK. My interests lie in conducting interdisciplinary research of marine ecosystems, creating appealing visualizations, and actively engaging in and promoting open science practices, including the amazing communities associated with them . I recently started constructing this website so new things are coming soon!\n\n\n\n\nPhD in Biological Sciences\n\nUniversity of Buenos Aires ∙ 2021\n\nBSc in Biological Sciences\n\nUniversity of Buenos Aires ∙ 2015\n\n\n\n\nSoftware Carpentries Instructor\n\nThe Carpentries ∙ 2021"
+    "text": "Virginia García Alonso\n\n\nPhD in Biological Sciences ∙ R-Ladies Co-organizer ∙ Red JICMar Co-founder\n\n\n\n .  .  .  . \n\n\n\n\n\n.\n\n\n\nI am a marine biologist from Argentina, currently residing in the UK. My interests lie in conducting interdisciplinary research of marine ecosystems, creating appealing visualizations, and actively engaging in and promoting open science practices, including the amazing communities associated with them . I recently started constructing this website so new things are coming soon!\n\n\n\n\nPhD in Biological Sciences\n\nUniversity of Buenos Aires ∙ 2021\n\nBSc in Biological Sciences\n\nUniversity of Buenos Aires ∙ 2015\n\n\n\n\nOpen Seeds Fellow\n\nOpen Life Science ∙ 2024\n\nSoftware Carpentries Instructor\n\nThe Carpentries ∙ 2021"
   },
   {
     "objectID": "index.html#hi-there",
@@ -39,7 +39,63 @@
     "href": "communities.html",
     "title": "Communities",
     "section": "",
-    "text": "I have crossed roads with incredible communities (and the people behind them!) which promote gender diversity, inclusivity, and the implementation of open science practices along among other valuable missions.\nHere are some of the many communities out there to which I’ve joined, in case they can be useful to you too!\n\n\n R-Ladies\nR-Ladies is a worldwide organization whose mission is to promote gender diversity within the R community in the quest to improve accessibility and inclusion.\nI first heard of R-Ladies from Laura Ación during an undergraduate course of Biostatistics at the Faculty of Exact and Natural Sciences of the University of Buenos Aires. This was the first time I ever became aware of the existence of such communities and joining the Buenos Aires chapter was a life-changing experience.\nThere are chapters all around the world and they hold on-site and/or online events in which people can share their R codes, new packages, and so many other things. Above all, the community is a safe and really welcoming space for under-represented gender minorities (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).\nYou can look for local chapters in the R-Ladies website or join the Community Slack.\n\n\n\n The Carpentries\nThe Carpentries is a community formed by instructors, trainers, maintainers, helpers, and supporters that teaches foundational coding and data science skills to researchers worldwide.\nThe project comprises the Software Carpentry, Data Carpentry, and Library Carpentry workshops with open and free lessons of many useful topics.\nYou can also become an Instructure and organize workshops!\n\n\n\nMetadocencia\nMetadocencia is a community that works to make the production, communication, and application of scientific and technical knowledge equitable globally.\nThey do remote and free courses intended for Spanish-speaking teachers and pay particular attention in teaching how to make inclusive content and activities.\n\n\n\n LatinR\nLatinR is a Latin American Conference on the Use of R in Research + Development.\nBesides holding on-site or online conferences, the community also has a Slack with channels to ask for help with coding issues or with preparing talks for this and other R conferences (including helping with translations for international conferences)\n\n\n\n R for Data Science\nThis is actually a book by Hadley Wickham and Garrett Grolemund that teaches you how to do data science with R. But a Data Science Learning Community was built around it, with a Slack where people can ask for help, share job opportunities, advertise R-related events and more.\n\n\n\n Open Life Science\nOpen Life Science is a not-for profit organization dedicated to capacity building and diversifying leadership in research worldwide. Theys strive for a future where research is accessible, inclusive, and equitable for everyone.\nThey provide the Open Seeds program for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities.\n\n\n\n OceanHackWeek\nOceanHackWeek is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data. It includes tutorials, data exploration, software development, collaborative projects and community networking.\nThere is also a Slack channel for participants and mentors to exchange questions, events, and job opportunities.\n\n\n\n RSpatial_ES\nRSpatial_ES is the Spanish speaking community of R users dedicated to spatial analysis and related aspects. They embarked on the experience of translating knowledge into the Spanish language and making it accessible mainly in Latin America. Members have access to community support, information and news about R and Rspatial tutorials, talks and courses, and contributions and reviews of their developments.\nThe community started and is maintained as a Telegram group.\n\n\n\n The Turing Way\nThe Turing Way is an open source, open collaboration, and community-driven project. They are involved and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Their goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.\nYou can join their Slack Workspace to connect and discuss ideas or suggestions with The Turing Way members."
+    "text": "I have crossed roads with incredible communities of practice (and the people behind them ) which promote gender diversity, inclusivity, and the implementation of open science practices along among other valuable missions."
+  },
+  {
+    "objectID": "communities.html#the-carpentries",
+    "href": "communities.html#the-carpentries",
+    "title": "Communities",
+    "section": " The Carpentries",
+    "text": "The Carpentries\nThe Carpentries is a community formed by instructors, trainers, maintainers, helpers, and supporters that teaches foundational coding and data science skills to researchers worldwide.\nThe project comprises the Software Carpentry, Data Carpentry, and Library Carpentry workshops with open and free lessons of many useful topics.\nYou can also become an Instructure and organize workshops!"
+  },
+  {
+    "objectID": "communities.html#metadocencia",
+    "href": "communities.html#metadocencia",
+    "title": "Communities",
+    "section": " Metadocencia",
+    "text": "Metadocencia\nMetadocencia is a community that works to make the production, communication, and application of scientific and technical knowledge equitable globally.\nThey do remote and free courses intended for Spanish-speaking teachers and pay particular attention in teaching how to make inclusive content and activities."
+  },
+  {
+    "objectID": "communities.html#latinr",
+    "href": "communities.html#latinr",
+    "title": "Communities",
+    "section": " LatinR",
+    "text": "LatinR\nLatinR is a Latin American Conference on the Use of R in Research + Development.\nBesides holding on-site or online conferences, the community also has a Slack with channels to ask for help with coding issues or with preparing talks for this and other R conferences (including helping with translations for international conferences)"
+  },
+  {
+    "objectID": "communities.html#r-for-data-science",
+    "href": "communities.html#r-for-data-science",
+    "title": "Communities",
+    "section": " R for Data Science",
+    "text": "R for Data Science\nThis is actually a book by Hadley Wickham and Garrett Grolemund that teaches you how to do data science with R. But a Data Science Learning Community was built around it, with a Slack where people can ask for help, share job opportunities, advertise R-related events and more."
+  },
+  {
+    "objectID": "communities.html#open-life-science",
+    "href": "communities.html#open-life-science",
+    "title": "Communities",
+    "section": " Open Life Science",
+    "text": "Open Life Science\nOpen Life Science is a not-for profit organization dedicated to capacity building and diversifying leadership in research worldwide. They strive for a future where research is accessible, inclusive, and equitable for everyone.\nThey provide the Open Seeds program for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities."
+  },
+  {
+    "objectID": "communities.html#oceanhackweek",
+    "href": "communities.html#oceanhackweek",
+    "title": "Communities",
+    "section": " OceanHackWeek",
+    "text": "OceanHackWeek\nOceanHackWeek is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data. It includes tutorials, data exploration, software development, collaborative projects and community networking.\nThere is also a Slack channel for participants and mentors to exchange questions, events, and job opportunities."
+  },
+  {
+    "objectID": "communities.html#rspatial_es",
+    "href": "communities.html#rspatial_es",
+    "title": "Communities",
+    "section": " RSpatial_ES",
+    "text": "RSpatial_ES\nRSpatial_ES is the Spanish speaking community of R users dedicated to spatial analysis and related aspects. They embarked on the experience of translating knowledge into the Spanish language and making it accessible mainly in Latin America. Members have access to community support, information and news about R and Rspatial tutorials, talks and courses, and contributions and reviews of their developments.\nThe community started and is maintained as a Telegram group."
+  },
+  {
+    "objectID": "communities.html#the-turing-way",
+    "href": "communities.html#the-turing-way",
+    "title": "Communities",
+    "section": " The Turing Way",
+    "text": "The Turing Way\nThe Turing Way is an open source, open collaboration, and community-driven project. They are involved and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Their goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.\nYou can join their Slack Workspace to connect and discuss ideas or suggestions with The Turing Way members."
   },
   {
     "objectID": "blog/2023-12-13-website/index.html",
@@ -74,7 +130,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I was born in Mendoza (well known for its Malbec wine 🍷) and lived in three other provinces of Argentina. Regardless of my location, I have always been fascinated by animals and nature around me, especially at the sea 🌊.\nI decided to study Biological Sciences at the Faculty of Exact and Natural Sciences (FCEN) of the University of Buenos Aires (UBA), which basically became my home.\nAfter years studying and drinking lots of mates 🧉, I obtained my Bachelors Degree defending my Graduate Thesis (equivalent to a Master’s Thesis) on Antarctic Chaetognaths —some really cool marine invertebrates with hooks on their heads.\nI then pursued a Doctoral degree at the UBA. Financed by fellowships awarded by the UBA and the National Scientific and Technical Research Council (CONICET), I studied early life stages of Fuegian sprat 🐟 in Argentina´s first Marine Protected Area. As part of the research project, I was able to board a research vessel for more than 30 days (twice!) and work with researchers from various disciplines in the middle of the sea.\n\n\n\n\n\n\n\n\nSome of the most amazing sunsets I have ever seen occurred during the cruises to the Marine Protected Area Namuncurá at Burdwood Bank (Argentina).\n\n\nI extended my research on Fuegian sprat during a Postdoctoral fellowship while working as a Part-time Lecturer of Biostatistics at the UBA.\nDuring my last years of the PhD I got involved with the R-Ladies Buenos Aires chapter, first as an attendant to their meetings, and then as an organizer. This experience was so positive and enriching that it led me to get involved with many other amazing communities of practice. So, besides my passion for marine sciences, I became an advocate for open science practices."
+    "text": "I was born in Mendoza (well known for its Malbec wine 🍷) and lived in three other provinces of Argentina. Regardless of my location, I have always been fascinated by animals and nature around me, especially at the sea 🌊.\nI decided to study Biological Sciences at the Faculty of Exact and Natural Sciences (FCEN) of the University of Buenos Aires (UBA), which basically became my home.\nAfter years studying and drinking lots of mates 🧉, I obtained my Bachelors Degree defending my Graduate Thesis (equivalent to a Master’s Thesis) on Antarctic Chaetognaths —some really cool marine invertebrates with hooks on their heads.\nI then pursued a Doctoral degree at the UBA. Financed by fellowships awarded by the UBA and the National Scientific and Technical Research Council (CONICET), I studied early life stages of Fuegian sprat 🐟 in Argentina´s first Marine Protected Area. As part of the research project, I was able to board a research vessel for more than 30 days (twice!) and work with researchers from various disciplines in the middle of the sea.\n\n\n\n\n\n\n\n\nSome of the most amazing sunsets I have ever seen occurred during the cruises to the Marine Protected Area Namuncurá at Burdwood Bank (Argentina).\n\n\nI extended my research on Fuegian sprat during a Postdoctoral fellowship while working as a Part-time Lecturer of Biostatistics at the UBA.\nDuring my last years of the PhD I got involved with the R-Ladies Buenos Aires chapter, first as an attendant to their meetings, and then as an organizer. This experience was so positive and enriching that it led me to get involved with many other amazing communities of practice. So, besides my passion for marine sciences, I became an advocate for open science practices and I embarked in the creation of a new community by and for marine early career researchers from Latin America (JICMar) (for the sylabus in Spanish)."
   },
   {
     "objectID": "about.html#the-logo",

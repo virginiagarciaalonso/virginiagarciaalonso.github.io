@@ -76,9 +76,9 @@ PhD in Biological Sciences &#8729; R-Ladies Co-organizer &#8729; Red JICMar Co-f
 
 
 ::: {.Item3 .extra-padding}
-### Education
+### {{< fa graduation-cap >}} Education
 
-[PhD in Biological Sciences]{.bold .small-text .less-line-space}
+[PhD in Biological Sciences]{.bold .small-text .less-line-space .topbr}
 <p class="small-text"> University of Buenos Aires ∙ 2021 </p>
 
 [BSc in Biological Sciences]{.bold .small-text .less-line-space}
@@ -86,10 +86,14 @@ PhD in Biological Sciences &#8729; R-Ladies Co-organizer &#8729; Red JICMar Co-f
 :::
 
 ::: {.Item4 .extra-padding}
-### Certifications
+### {{< iconify solar diploma-bold size=1.1em >}} Certifications
+
+[Open Seeds Fellow]{.bold .small-text .less-line-space .topbr}
+<p class="small-text"> Open Life Science ∙ 2024 </p>
 
 [Software Carpentries Instructor]{.bold .small-text .less-line-space}
 <p class="small-text"> The Carpentries ∙ 2021 </p>
+
 :::
 
 :::

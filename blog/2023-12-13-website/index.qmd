@@ -38,7 +38,7 @@ Building this website was only possible thanks to **amazing people and communiti
 
 # Samantha Csik
 
-I do not know how I ended up in [Samantha's website](https://samanthacsik.github.io/), but she has some of the most awesome guides to [create](https://samanthacsik.github.io/talks/2022-08-05-creating-your-personal-website-using-quarto/) and [customize](https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/) Quarto websites I could find (and in such detail and style 💜). 
+I do not know how I ended up in [Samantha's website](https://samanthacsik.github.io/), but she has some of the most awesome guides to [create](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/) and [customize](https://samanthacsik.github.io/talks_workshops/2022-10-10-customizing-quarto-websites/) Quarto websites I could find (and in such detail and style 💜). 
 
 I based most of the design and structure of my website on her guides and checking out [her website's GitHub repository](https://github.com/samanthacsik/samanthacsik.github.io) and the site she rebuilt for [Openscapes](https://openscapes.org/). 
 
